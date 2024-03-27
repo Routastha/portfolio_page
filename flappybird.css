@@ -1,0 +1,25 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.buttons {
+    padding: 50px 0;
+    position: center;
+}
+
+ .btn {
+    padding: 12px;
+    background: #b7b1e3;
+    color: black;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+#board {
+    /* background-color: skyblue; */
+    background-image: url("./flappybirdbg.png");
+}
