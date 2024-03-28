@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+#board {
+    /* background-color: green; */
+    background-image: url("./doodlejumpbg.png");
+}
+.buttons {
+    padding: 50px 0;
+}
+
+ .btn {
+    padding: 12px;
+    background: #b7b1e3;
+    color: black;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: 20px;
+    cursor: pointer;
+}
